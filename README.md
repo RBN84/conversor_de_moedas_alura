@@ -1,4 +1,4 @@
-![Logo do projeto](https://i.imgur.com/kniMQHu.png)
+![Logo do projeto](https://shots.codepen.io/BiancaMoretto90/pen/MWGyVqE-800.jpg?version=1662763120)
 
 # Nome do Projeto
 
