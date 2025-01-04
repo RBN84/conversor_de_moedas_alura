@@ -1,9 +1,9 @@
 ![Logo do projeto](https://academy-public.coinmarketcap.com/srd-optimized-uploads/85b0e99406da4507aa958ca5243c9758.jpeg)
 
-# ROBSON NASCIEMNTO
+# ROBSON NASCIMENTO
 
 ## Sobre Mim
-Olá! Eu sou Robson Nasciemnto, um profissional dedicado e apaixonado por Tecnologia da Informação (TI). Com formação na área e inspirado pelas possibilidades que a programação oferece, estou retornando ao mercado de trabalho com uma motivação renovada para contribuir com projetos inovadores e impactantes.
+Olá! Eu sou Robson Nascimento, um profissional dedicado e apaixonado por Tecnologia da Informação (TI). Com formação na área e inspirado pelas possibilidades que a programação oferece, estou retornando ao mercado de trabalho com uma motivação renovada para contribuir com projetos inovadores e impactantes.
 
 ## Formação Acadêmica
 - **Bacharelado em Sistemas de Infomação** - Universidade de Mogi das Cruzes (UMC).
