@@ -1,89 +1,22 @@
 ![Logo do projeto](https://academy-public.coinmarketcap.com/srd-optimized-uploads/85b0e99406da4507aa958ca5243c9758.jpeg)
 
-# Nome do Projeto
+# Challenge conversor de moedas
 
-Uma breve descrição do projeto aqui.
+O desafio Challenge Conversor de Moedas da Alura, em parceria com a Oracle Next Education, consiste em criar uma aplicação que permita a conversão de moedas utilizando Java. O objetivo é desenvolver um sistema que utilize taxas de câmbio atualizadas para converter valores entre diferentes moedas, como o Real Brasileiro (BRL), Dólar Americano (USD), Peso Argentino (ARS), entre outros2. O projeto deve ser implementado com conceitos de Programação Orientada a Objetos (POO) e utilizar a ExchangeRate-API para obter as taxas de câmbio em tempo real.
 
 ## 🔥 Introdução
 
-Coloque aqui as instruções e quais são os objetivos desse projeto, funcionalidades.
+Bem-vindo ao desafio Challenge Conversor de Moedas da Alura! Estou animado para embarcar nesta jornada onde poderei aplicar meus conhecimentos em Java e Programação Orientada a Objetos para criar uma aplicação que realiza conversões de moedas com precisão. Utilizando a ExchangeRate-API, terei a capacidade de buscar taxas de câmbio atualizadas e implementar funcionalidades que permitam a conversão entre diversas moedas. Este desafio é uma excelente oportunidade para praticar e aprimorar minhas habilidades de desenvolvimento, além de ganhar uma Badge exclusiva ao finalizar o projeto.
 
 ### ⚙️ Pré-requisitos
 
-Coloque aqui passo a passo que precisa para instalar o projeto e como instalá-lo.
+* JDK (Java Development Kit):
 
-```
-Pode inserir exemplos.
-```
+ + Baixar a versão mais recente do JDK no site oficial da Oracle: link.
 
-### 🔨 Guia de instalação
+Siga as instruções de instalação específicas para seu sistema operacional (Windows, macOS, ou Linux).
 
-Explique aqui um passo a passo mostrando como deve executar para ter um ambiente de desenvolvimento em execução, desde instalar e rodar o projeto.
+Configurar o Ambiente de Desenvolvimento Integrado (IDE):
 
-Etapas para instalar:
+Baixar e instalar uma IDE de sua preferência, como IntelliJ IDEA, Eclipse, ou NetBeans:
 
-```
-Codigo, exemplos
-```
-Passo 2:
-```
-Codigo, exemplos
-```
-
-
-## 🛠️ Executando os testes (caso tenha testes)
-
-Explique como executar os testes automatizados para este sistema.
-
-```
-Coloque exemplos
-```
-
-## 📦 Tecnologias usadas:
-
-Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
-
-* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-- Link para pegar as badges: https://github.com/Ileriayo/markdown-badges
-
-Ou pode separar por stacks:
-
-**Front-end:**
-* [React JS](https://react.dev/)
-* [TailwindCSS](https://tailwindcss.com/)
-
-**Back-end:**
-* [NodeJS](https://nodejs.org/).
-* [TypeScript](https://www.typescriptlang.org/) 
-* [Mongo DB](https://mongodb.com/)
-
-## 👷 Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, colaboradores.
-
-* **Nome do dev** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
-* **Sujeito Programador** - *Frontend do projeto* - [@sujeitoprogramador](https://github.com/devfraga)
-
-## 📄 Licença
-
-Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
-
-## 💭 FAQ - Perguntas frequentes
-
-#### Questão 1
-
-Resposta 1
-
-#### Questão 2
-
-Resposta 2
-
-
-## 💡 Expressões de gratidão
-
-* Um agradecimento publicamente.
-* Para suporte, mande um email para nome@teste.com.
-* Link para o seu linkedin [Meu linkedin](https://url_do_link
