@@ -1,4 +1,4 @@
-![Logo do projeto](https://shots.codepen.io/BiancaMoretto90/pen/MWGyVqE-800.jpg?version=1662763120)
+![Logo do projeto](https://academy-public.coinmarketcap.com/srd-optimized-uploads/85b0e99406da4507aa958ca5243c9758.jpeg)
 
 # Nome do Projeto
 
